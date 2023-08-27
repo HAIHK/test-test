@@ -1,0 +1,27 @@
+.title{
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px;
+}
+
+.box{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 10px;
+}
+.container-child{
+    width: 50px;
+    padding: 5px 5px;
+    border: 1px solid;
+    margin: 0 auto;
+
+}
+
+.select{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0px auto;
+    margin-top: 20px;
+}
